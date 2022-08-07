@@ -1,0 +1,14 @@
+{
+    "output": {
+        "warning": false,
+        "verbose": false
+    },
+
+    "main":{
+        "preset": "generic_cc.json"
+    },
+
+    "patcher": {
+        "verbose": false
+    }
+}
