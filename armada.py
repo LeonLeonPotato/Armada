@@ -6,6 +6,7 @@ import utils
 import json
 import updater
 from character import Character
+import modules.manager
 
 from colorama import Fore
 
@@ -21,6 +22,8 @@ if(emulators >= 1):
     print(f"{Fore.YELLOW}[Warning] Multiple emulators found!{Fore.RESET}" , file=sys.stderr)
 if(emulators < 1):
     print(f"{Fore.YELLOW}[Warning] No emulators found!{Fore.RESET}" , file=sys.stderr)
+
+updater.run(False)
 
 class Armada:
     def __init__(self):
