@@ -4,7 +4,7 @@ import sys
 import uuid
 import utils
 import json
-import armadapatcher
+import updater
 from character import Character
 
 from colorama import Fore
@@ -35,7 +35,7 @@ class Armada:
             res = {
                 "result": 0,
                 "battleId": str(uuid.uuid1()),
-                "apFailReturn": 5,
+                "apFailReturn": 0,
                 "isApProtect": 0,
                 "notifyPowerScoreNotEnoughIfFailed": False,
                 "playerDataDelta": {

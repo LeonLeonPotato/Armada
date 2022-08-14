@@ -2,7 +2,11 @@ import os
 from github import Github
 import json
 
+from utils import cf, cfd, rf
+
 import requests
+
+raw = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/"
 
 data_repo = "Kengxxiao/ArknightsGameData"
 char_table = "en_US/gamedata/excel/character_table.json"
@@ -10,20 +14,6 @@ module_table = "en_US/gamedata/excel/uniequip_table.json"
 
 generic_repo = "LeonLeonPotato/Armada-Rewrite"
 generic_cc = "presets/generic_cc.json"
-
-def cfd(name: str) -> bool:
-    returnval = not os.path.exists(name)
-    if(returnval):
-        os.makedirs(name)
-    return returnval
-
-def cf(name: str, content = "") -> bool:
-    with open(name, "wb") as file:
-        file.write(content.encode("utf-8"))
-
-def rf(name: str) -> str:
-    with open(name, "r", encoding="utf-8") as file:
-        return file.read()
 
 def changeTime(path: str) -> str: # stolen code ez
     commits = Github().get_repo(data_repo).get_commits(path=path)
@@ -35,7 +25,7 @@ def changeTime(path: str) -> str: # stolen code ez
 def pullCharData(force: bool):
     shouldUpdate = force or changeTime(char_table) == rf("cache/lastCharChanged.txt")
     if(shouldUpdate):
-        cf("cache/char_table.json", requests.get("https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json").text)
+        cf("cache/char_table.json", requests.get(raw + char_table).text)
 
 def pullModData(force: bool):
     shouldUpdate = force or changeTime(module_table) == rf("cache/lastModChanged.txt")
