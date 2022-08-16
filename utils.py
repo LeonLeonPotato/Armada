@@ -16,14 +16,12 @@ modTemp = "{\"result\":0,\"playerDataDelta\":{\"modified\":{\"troop\":{\"chars\"
 # for n, i in module_table["equipDict"].items():
 #     pass
 
-# def isAKServer(st: str) -> bool:
-#     return st.find("arknights") != -1
-
 # def findCharFromModule(st: str) -> Character:
 #     for i in char_list:
 #         pass
 
-
+def isAKServer(st: str) -> bool:
+     return st.find("arknights") != -1
 
 def cfd(name: str) -> bool:
     returnval = not os.path.exists(name)

@@ -1,7 +1,7 @@
-import os
+import modules.impl.battle
 
 requests = []
 responses = []
 
-for a, b, c in os.listdir("./impl"):
-    print(c)
+requests.append(modules.impl.battle.request)
+responses.append(modules.impl.battle.response)

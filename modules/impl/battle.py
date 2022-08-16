@@ -1,7 +1,9 @@
 import mitmproxy.http
 import json
+import uuid
 
-def request(flow):
+def request(flow: mitmproxy.http.HTTPFlow):
+    if(flow.request.path != "/quest/battleStart"): pass
     res = {
         "result": 0,
         "battleId": str(uuid.uuid1()),
@@ -18,6 +20,21 @@ def request(flow):
         }
     }
 
+    flow.response = mitmproxy.http.Response.make(
+        200,
+        json.dumps(res, indent=2).encode('utf-8')
+    )
+
+def response(flow: mitmproxy.http.HTTPFlow):
+    if(flow.request.path != "/quest/battleFinish"): pass
+    res = {
+        "result": 0,
+        "playerDataDelta": {
+            "modified": {},
+            "deleted": {}
+        }
+    }
+ 
     flow.response = mitmproxy.http.Response.make(
         200,
         json.dumps(res, indent=2).encode('utf-8')
