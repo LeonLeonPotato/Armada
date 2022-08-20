@@ -3,7 +3,9 @@ import json
 import uuid
 
 def request(flow: mitmproxy.http.HTTPFlow):
-    if(flow.request.path != "/quest/battleStart"): pass
+    if(flow.request.path != "/quest/battleStart"): 
+        return
+        
     res = {
         "result": 0,
         "battleId": str(uuid.uuid1()),
@@ -26,7 +28,9 @@ def request(flow: mitmproxy.http.HTTPFlow):
     )
 
 def response(flow: mitmproxy.http.HTTPFlow):
-    if(flow.request.path != "/quest/battleFinish"): pass
+    if(flow.request.path != "/quest/battleFinish"): 
+        return
+
     res = {
         "result": 0,
         "playerDataDelta": {

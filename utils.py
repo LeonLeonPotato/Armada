@@ -31,7 +31,10 @@ def cfd(name: str) -> bool:
 
 def cf(name: str, content = "") -> bool:
     with open(name, "wb") as file:
-        file.write(content.encode("utf-8"))
+        if(content is bytes):
+            file.write(content)
+        else:
+            file.write(content.encode("utf-8"))
 
 def rf(name: str) -> str:
     with open(name, "r", encoding="utf-8") as file:

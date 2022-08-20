@@ -3,5 +3,14 @@ import modules.impl.battle
 requests = []
 responses = []
 
-requests.append(modules.impl.battle.request)
-responses.append(modules.impl.battle.response)
+logs = []
+
+def add(mod):
+    requests.append(mod.request)
+    responses.append(mod.response)
+
+add(modules.impl.battle)
+
+logs.append(["/crisis/getInfo", "crisis"])
+logs.append(["/account/syncStatus", "syncStatus"])
+logs.append(["/account/syncData", "syncData"])

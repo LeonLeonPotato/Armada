@@ -1,6 +1,5 @@
 import os
 from github import Github
-import json
 
 from utils import cf, cfd, rf
 
@@ -22,15 +21,15 @@ def changeTime(path: str) -> str: # stolen code ez
     else:
         return "0"
 
-def pullCharData(force: bool):
-    shouldUpdate = force or changeTime(char_table) == rf("cache/lastCharChanged.txt")
+def pullCharData(force: bool, shit = ""):
+    shouldUpdate = force or (changeTime(char_table) if shit == "" else shit) == rf("cache/lastCharChanged.txt")
     if(shouldUpdate):
         cf("cache/char_table.json", requests.get(raw + char_table).text)
 
-def pullModData(force: bool):
-    shouldUpdate = force or changeTime(module_table) == rf("cache/lastModChanged.txt")
+def pullModData(force: bool, shit = ""):
+    shouldUpdate = force or (changeTime(module_table) if shit == "" else shit) == rf("cache/lastModChanged.txt")
     if(shouldUpdate):
-        cf("cache/mod_table.json", requests.get("https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/uniequip_table.json").text)
+        cf("cache/mod_table.json", requests.get(raw + module_table).text)
 
 def run(force: bool):
     if(cfd("cache")):
@@ -39,11 +38,19 @@ def run(force: bool):
     if(cfd("presets")):
         print("Creating Presets!")
 
-    cf("cache/lastCharChanged.txt", changeTime(char_table))
-    cf("cache/lastModChanged.txt", changeTime(module_table))
+    timeChar = changeTime(char_table)
+    if(not os.path.exists("cache/lastCharChanged.txt")):
+        cf("cache/lastCharChanged.txt", timeChar)
+        pullCharData(True)
+    else:
+        pullCharData(force, timeChar)
 
-    pullModData(force)
-    pullCharData(force)
+    timeMod = changeTime(module_table)
+    if(not os.path.exists("cache/lastModChanged.txt")):
+        cf("cache/lastModChanged.txt", timeMod)
+        pullModData(True)
+    else:
+        pullModData(force, timeMod)
 
 if __name__ == "__main__":
     run(True)
