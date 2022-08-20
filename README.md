@@ -10,3 +10,5 @@ instructions:
 2. install mitmproxy certificate (mitm.it) on emulator
 3. install sslbypass and apply it
 4. run "mitmdump -s armada.py --quiet"
+
+(i suck at python lol)
