@@ -1,1 +1,0 @@
-{"charInstId":20,"templateId":null,"equipId":"uniequip_001_doberm"}
