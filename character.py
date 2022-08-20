@@ -1,3 +1,6 @@
+from email.policy import default
+
+
 class Character:
     def __init__(self, fullname: str, rarity: int, maxlevel: int, maxpromotion: int) -> None:
         self.fullname : str = fullname

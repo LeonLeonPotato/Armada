@@ -5,7 +5,8 @@
     },
 
     "main":{
-        "preset": "generic_cc.json"
+        "preset": "generic_cc.json",
+        "save": false
     },
 
     "patcher": {

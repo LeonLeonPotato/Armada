@@ -1,4 +1,5 @@
 import modules.impl.battle
+import modules.impl.squad
 
 requests = []
 responses = []
@@ -10,6 +11,7 @@ def add(mod):
     responses.append(mod.response)
 
 add(modules.impl.battle)
+add(modules.impl.squad)
 
 logs.append(["/crisis/getInfo", "crisis"])
 logs.append(["/account/syncStatus", "syncStatus"])

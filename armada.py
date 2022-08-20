@@ -47,4 +47,5 @@ class Armada:
             if(flow.request.path == log[0]):
                 utils.cf("dump/" + log[1] + "Response.json", flow.response.text)
                 utils.cf("dump/" + log[1] + "Request.json", flow.request.text)
+
 addons = [Armada()]
