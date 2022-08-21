@@ -3,5 +3,5 @@ __pycache__/
 
 cache
 dump
-setproxy.bat
-stopproxy.bat
+local
+exporter.py

@@ -1,7 +1,6 @@
 from char.character import Character
 
 import os
-import json
 
 def isAKServer(st: str) -> bool:
      return st.find("arknights") != -1

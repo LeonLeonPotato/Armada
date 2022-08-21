@@ -6,7 +6,9 @@
 
     "main":{
         "preset": "generic_cc.json",
-        "save": false
+        "save": false,
+        "assistant": "char_291_aglina",
+        "skin": ""
     },
 
     "patcher": {
