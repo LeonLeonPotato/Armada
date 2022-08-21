@@ -1,0 +1,2332 @@
+{
+    "char_285_medic2": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_286_cast3": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_376_therex": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_4000_jnight": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_502_nblade": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_500_noirc": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_503_rang": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_501_durin": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_009_12fce": {
+        "elite": 0,
+        "level": 30,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 0,
+        "masteries": ""
+    },
+    "char_123_fang": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_240_wyvern": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_504_rguard": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_192_falco": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_208_melan": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_281_popka": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_209_ardign": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_122_beagle": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_284_spot": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_124_kroos": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_211_adnach": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_507_rsnipe": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_121_lava": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_120_hibisc": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_212_ansel": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_506_rmedic": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_210_stward": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_505_rcast": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_278_orchid": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_141_nights": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_109_fmout": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_253_greyy": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_328_cammou": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_469_indigo": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_4004_pudd": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_pudd",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_235_jesica": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_126_shotst": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_190_clour": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_133_mm": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_118_yuki": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_440_pinecn": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_302_glaze": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_glaze",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_366_acdrop": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_198_blackd": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_149_scave": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_290_vigna": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_vigna",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_151_myrtle": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_452_bstalk": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_130_doberm": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_doberm",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_289_gyuki": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_gyuki",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_159_peacok": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_peacok",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_193_frostl": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_127_estell": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_185_frncat": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_301_cutter": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_cutter",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_337_utage": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_271_spikes": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_237_gravel": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_gravel",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_272_strong": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_strong",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_236_rope": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_117_myrrh": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_187_ccheal": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_298_susuro": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_181_flower": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_flower",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_385_finlpp": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_199_yak": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_150_snakek": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_381_bubble": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_196_sunbr": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_260_durnar": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_110_deepcl": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": "uniequip_002_deepcl",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_183_skgoat": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_258_podego": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_484_robrta": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_355_ethan": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_277_sqrrel": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_128_plosis": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_plosis",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_275_breeze": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_breeze",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_115_headbr": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_102_texas": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_349_chiave": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_261_sddrag": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_sddrag",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_496_wildmn": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_wildmn",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_401_elysm": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_476_blkngt": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_308_swire": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_swire",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_265_sophia": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_sophia",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_106_franka": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_franka",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_131_flameb": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_flameb",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_508_aguard": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_155_tiger": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_415_flint": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_140_whitew": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_294_ayer": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_252_bibeak": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_bibeak",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_459_tachak": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_tachak",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_143_ghost": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_356_broca": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_274_astesi": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_333_sidero": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_475_akafyu": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_421_crow": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_486_takila": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_129_bluep": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_204_platnm": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_367_swllow": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_511_asnipe": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_365_aprl": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_1021_kroos2": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_219_meteo": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_379_sesa": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_279_excu": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_346_aosta": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_002_amiya": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_405_absin": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_411_tomimi": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_166_skfire": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_509_acast": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_306_leizi": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_leizi",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_344_beewax": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_373_lionhd": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_388_mint": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_338_iris": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_1011_lava2": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_489_serum": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_4013_kjera": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_242_otter": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_otter",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_336_folivo": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_folivo",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_108_silent": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_171_bldsk": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_345_folnic": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_510_amedic": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_348_ceylon": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_436_whispr": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_402_tuye": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_473_mberry": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_449_glider": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_148_nearl": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_226_hmau": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_144_red": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_red",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_243_waaifu": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_waaifu",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_214_kafka": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_kafka",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_455_nothin": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_nothin",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_107_liskam": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_201_moeshd": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_325_bison": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_163_hpsts": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_378_asbest": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_512_aprot": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_4025_aprot2": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_457_blitz": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_304_zebra": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_431_ashlok": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_422_aurora": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_145_prove": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_158_milu": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_milu",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_218_cuttle": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_cuttle",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_363_toddi": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_173_slchan": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_383_snsant": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_174_slbell": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_254_vodfox": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_195_glassb": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_326_glacus": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_101_sora": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_343_tknogi": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_4019_ncdeer": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_492_quercu": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_215_mantic": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_478_kirara": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_241_panda": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_451_robin": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_458_rfrost": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_369_bena": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_103_angel": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_332_archet": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_456_ash": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_340_shwaz": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_430_fartth": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_fartth",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_113_cqbw": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_197_poca": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_391_rosmon": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_1013_chen2": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_112_siege": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_222_bpipe": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_bpipe",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_362_saga": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_479_sleach": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_420_flamtl": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_134_ifrit": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_213_mostma": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_180_amgoat": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_2013_cerber": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_2015_dusk": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_472_pasngr": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_pasngr",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_426_billro": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_377_gdglow": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_206_gnosis": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_291_aglina": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_358_lisa": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_248_mgllan": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_mgllan",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_1012_skadi2": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_2023_ling": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_ling",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_250_phatom": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_phatom",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_322_lmlee": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_lmlee",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_400_weedy": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_225_haak": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_474_glady": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_437_mizuki": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_147_shining": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_179_cgbird": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_cgbird",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_003_kalts": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_136_hsguma": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_202_demkni": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_423_blemsh": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_2014_nian": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_311_mudrok": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_416_zumama": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_264_f12yin": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_172_svrash": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_293_thorns": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_010_chen": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_chen",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_017_huang": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_350_surtr": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_188_helage": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_485_pallas": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_pallas",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_1014_nearl2": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_nearl2",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    },
+    "char_230_savage": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_282_catap": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_283_midn": {
+        "elite": 1,
+        "level": 55,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 1,
+        "masteries": "0"
+    },
+    "char_137_brownb": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_347_jaksel": {
+        "elite": 2,
+        "level": 70,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_164_nightm": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": null,
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_220_grani": {
+        "elite": 2,
+        "level": 80,
+        "potential": 6,
+        "module": "uniequip_002_grani",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 2,
+        "masteries": "33"
+    },
+    "char_263_skadi": {
+        "elite": 2,
+        "level": 90,
+        "potential": 6,
+        "module": "uniequip_002_skadi",
+        "skin": 2,
+        "skillLevel": 7,
+        "mainSkill": 3,
+        "masteries": "333"
+    }
+}

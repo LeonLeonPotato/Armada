@@ -1,31 +1,8 @@
 import mitmproxy.http
 import json
-import utils
-from character import Character
-
-char_table = json.load(open("cache/char_table.json", "r", encoding="utf-8"))
-char_list = []
-module_table = json.load(open("cache/mod_table.json", "r", encoding="utf-8"))
-module_list = []
-
-for n, i in char_table.items():
-    if(n.startswith("char")):
-        char_list.append(Character(n, i["rarity"] + 1, i["phases"][-1]["maxLevel"], len(i["phases"]) - 1))
-
-# for n, i in module_table["equipDict"].items():
-#     pass
-
-def findByName(fullname: str) -> Character:
-    n: Character
-    for n in char_list:
-        if(n.fullname == fullname):
-            return n
-    return None
-
-def findCharFromModule(st: str) -> Character:
-    for i in char_list:
-        pass
-
+import utils.utils as utils
+from char.character import Character
+from char.char_manager import *
 
 def request(flow: mitmproxy.http.HTTPFlow):
     if(flow.request.path != "/account/syncData"): 
@@ -39,7 +16,7 @@ def response(flow: mitmproxy.http.HTTPFlow):
     chars = og["user"]["troop"]["chars"]
 
     for i, c in chars.items():
-        char : Character = findByName(c["charId"])
+        char : Character = findByFullName(c["charId"])
         c["favorPoint"] = 25570
         c["evolvePhase"] = char.maxpromotion
         c["level"] = char.maxlevel

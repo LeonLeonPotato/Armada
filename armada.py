@@ -1,6 +1,8 @@
-import utils
+from codecs import charmap_build
+import utils.utils as utils
 import updater
 import modules.manager
+import char.char_manager
 import atexit
 
 from colorama import Fore
