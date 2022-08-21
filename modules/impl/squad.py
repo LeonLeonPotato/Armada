@@ -1,36 +1,14 @@
 import mitmproxy.http
 import json
-from util.char.character import Character
+
 from util.char.char_manager import *
-
 import util.config
-
-def request(flow: mitmproxy.http.HTTPFlow):
-    if(flow.request.path != "/account/syncData"): 
-        return
 
 def response(flow: mitmproxy.http.HTTPFlow):
     if(flow.request.path != "/account/syncData"): 
         return
 
     og = json.loads(flow.response.text)
-    # chars = og["user"]["troop"]["chars"]
-
-    # for i, c in chars.items():
-    #     char : Character = findByFullName(c["charId"])
-    #     c["favorPoint"] = 25570
-    #     c["evolvePhase"] = char.maxpromotion
-    #     c["level"] = char.maxlevel
-    #     c["potentialRank"] = 5
-    #     if(char.rarity >= 3):
-    #         c["mainSkillLvl"] = 7
-
-    #     for c1 in c["skills"]:
-    #         c1["unlock"] = 1
-    #         c1["specializeLevel"] = 3
-
-    #     og["user"]["troop"]["chars"][str(i)] = c
-
     out = {}
 
     index = 0
@@ -82,6 +60,6 @@ def response(flow: mitmproxy.http.HTTPFlow):
 
     flow.response.set_text(json.dumps(og))
 
-                
-
+requests = []
+responses = [response]
 

@@ -7,8 +7,17 @@
     "main":{
         "preset": "generic_cc.json",
         "save": false,
+
+        "name": "HaiMao",
+        "id": "0001",
+        "uid": 1,
+        "level": 120,
+        "exp": 0,
+        "primes": 2000,
+        "orundums": 180000,
+        "lmd": 10000000,
         "assistant": "char_291_aglina",
-        "skin": ""
+        "skin": 2
     },
 
     "patcher": {

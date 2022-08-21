@@ -1,6 +1,3 @@
-from array import array
-
-
 class Character:
     def __init__(self, fullname: str, rarity: int, maxlevel: int, maxpromotion: int, skills: dict) -> None:
         self.fullname : str = fullname

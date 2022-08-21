@@ -19,13 +19,17 @@ for i in util.char.char_manager.char_list:
     if(len(i.modules) >= 1):
         module = i.modules[-1]
 
+    skin = 1
+    if(i.maxpromotion == 2):
+        skin = 2
+
     op = {
         "elite": i.maxpromotion,
         "level": i.maxlevel,
         "trust": 25570,
         "potential": 6,
         "module": module,
-        "skin": 3 if i.fullname == "char_002_amiya" else 2,
+        "skin": skin,
         "skillLevel": 7,
         "mainSkill": i.skillCount(),
         "masteries": st

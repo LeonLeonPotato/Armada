@@ -1,4 +1,5 @@
 import modules.impl.battle
+import modules.impl.menu
 import modules.impl.squad
 
 requests = []
@@ -7,9 +8,13 @@ responses = []
 logs = []
 
 def add(mod):
-    requests = requests + mod.requests
-    requests 
+    global requests
+    global responses
 
+    requests = requests + mod.requests
+    responses = responses + mod.responses
+
+add(modules.impl.menu)
 add(modules.impl.battle)
 add(modules.impl.squad)
 
