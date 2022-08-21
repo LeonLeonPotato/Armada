@@ -1,0 +1,13 @@
+{
+    "fullName (e.g. char_144_red)": {
+        "elite": "elite level (0, 1, 2)",
+        "level": "level of operator",
+        "trust": "trust, in points (25570 is max trust)",
+        "potential": "potentials (1 to 6)",
+        "module": "in game module name (e.g. uniequip_002_phatom)",
+        "skin": "skin index",
+        "skillLevel": "skill level (1 to 7)",
+        "mainSkill": "main skill",
+        "masteries": "masteries"
+    }
+}

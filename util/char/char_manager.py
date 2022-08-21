@@ -1,4 +1,4 @@
-from char.character import Character
+from util.char.character import Character
 import json
 
 initiated = False
@@ -17,13 +17,24 @@ def initiate():
     module_table = json.load(open("cache/mod_table.json", "r", encoding="utf-8"))
     char_list = []
 
-    for n, i in char_table.items():
-        if(n.startswith("char")):
-            char_list.append(Character(n, i["rarity"] + 1, i["phases"][-1]["maxLevel"], len(i["phases"]) - 1))
+    for i, c in char_table.items():
+        if(i.startswith("char")):
+            skills = []
 
-    for n, i in module_table["charEquip"].items():
-        cha : Character = findByFullName(n)
-        cha.modules = i
+            for c0 in c["skills"]:
+                skills.append(c0["skillId"])
+
+            char_list.append(Character(
+                i, 
+                c["rarity"] + 1, 
+                c["phases"][-1]["maxLevel"], 
+                len(c["phases"]) - 1, 
+                skills
+            ))
+
+    for i, c in module_table["charEquip"].items():
+        cha : Character = findByFullName(i)
+        cha.modules = c
 
 def findByName(st : str) -> Character:
     i:Character

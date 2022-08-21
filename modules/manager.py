@@ -7,8 +7,8 @@ responses = []
 logs = []
 
 def add(mod):
-    requests.append(mod.request)
-    responses.append(mod.response)
+    requests = requests + mod.requests
+    requests 
 
 add(modules.impl.battle)
 add(modules.impl.squad)

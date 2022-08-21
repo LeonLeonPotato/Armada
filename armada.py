@@ -1,8 +1,6 @@
-from codecs import charmap_build
-import utils.utils as utils
+import util.utils as utils
 import updater
 import modules.manager
-import char.char_manager
 import atexit
 
 from colorama import Fore
@@ -41,13 +39,13 @@ class Armada:
 
     def response(self, flow: mitmproxy.http.HTTPFlow):
         if(not utils.isAKServer(flow.request.host)): pass
-        
-        for fun in modules.manager.responses:
-            fun(flow)
 
         for log in modules.manager.logs:
             if(flow.request.path == log[0]):
                 utils.cf("dump/" + log[1] + "Response.json", flow.response.text)
                 utils.cf("dump/" + log[1] + "Request.json", flow.request.text)
+        
+        for fun in modules.manager.responses:
+            fun(flow)
 
 addons = [Armada()]

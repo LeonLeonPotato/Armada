@@ -1,9 +1,13 @@
+from array import array
+
+
 class Character:
-    def __init__(self, fullname: str, rarity: int, maxlevel: int, maxpromotion: int) -> None:
+    def __init__(self, fullname: str, rarity: int, maxlevel: int, maxpromotion: int, skills: dict) -> None:
         self.fullname : str = fullname
         self.rarity : int = rarity
         self.maxlevel : int = maxlevel
         self.maxpromotion : int = maxpromotion
+        self.skills : dict = skills
 
         self.id : int = int(fullname.split("_")[1])
         self.name : str = fullname.split("_")[2]

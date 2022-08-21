@@ -1,4 +1,4 @@
-from char.character import Character
+from util.char.character import Character
 
 import os
 

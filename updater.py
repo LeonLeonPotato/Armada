@@ -1,7 +1,7 @@
 import os
 from github import Github
 
-from utils.utils import cf, cfd, rf
+from util.utils import cf, cfd, rf
 
 import requests
 

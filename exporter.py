@@ -1,13 +1,13 @@
-from char.char_manager import findByFullName
-import utils.utils as utils
+from util.char.char_manager import findByFullName
+import util.utils as utils
 import json
-from char.character import Character
-import char.char_manager
+from util.char.character import Character
+import util.char.char_manager
 
 out = {}
 
 i : Character
-for i in char.char_manager.char_list:
+for i in util.char.char_manager.char_list:
     st : str = ""
     ap : str = "0"
     if(i.rarity >= 4):
@@ -22,9 +22,10 @@ for i in char.char_manager.char_list:
     op = {
         "elite": i.maxpromotion,
         "level": i.maxlevel,
+        "trust": 25570,
         "potential": 6,
         "module": module,
-        "skin": 2,
+        "skin": 3 if i.fullname == "char_002_amiya" else 2,
         "skillLevel": 7,
         "mainSkill": i.skillCount(),
         "masteries": st
