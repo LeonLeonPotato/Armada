@@ -1,14 +1,17 @@
 import util.utils
 import json
+import os
 
 initiated = False
 cfg : dict
 
 preset_name : str
 preset : dict
+replays_name : str
+replays : dict
 
 name : str
-id : str
+tag : str
 uid : int
 level : int
 exp : int
@@ -26,8 +29,15 @@ if not initiated:
     preset_name = main["preset"]
     preset = json.loads(util.utils.rf("presets/" + preset_name))
 
+    replays_name = preset_name.replace(".json", "") + "_replays.json"
+    if(os.path.exists("presets/" + replays_name)):
+        replays = json.loads(util.utils.rf("presets/" + replays_name))
+    else:
+        replays = {}
+        util.utils.cf("presets/" + replays_name, r"{}")
+
     name = main["name"]
-    id = main["id"]
+    tag = main["id"]
     level = main["level"]
     uid = main["uid"]
     exp = main["exp"]
@@ -38,5 +48,3 @@ if not initiated:
     skin = main["skin"]
 
     initiated = True
-
-    

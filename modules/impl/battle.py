@@ -44,5 +44,31 @@ def battleEnd(flow: mitmproxy.http.HTTPFlow):
         json.dumps(res, indent=2).encode('utf-8')
     )
 
-requests = [battleStart, battleEnd]
+def squad(flow: mitmproxy.http.HTTPFlow):
+    if(flow.request.path != "/quest/squadFormation"):
+        return
+
+    req = json.loads(flow.request.text)
+
+    res = {
+        "playerDataDelta": {
+            "deleted": {},
+            "modified": {
+                "troop": {
+                    "squads": {
+                        req["squadId"]: {
+                            "slots": req["slots"]
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    flow.response = mitmproxy.http.Response.make(
+        200,
+        json.dumps(res, indent=2).encode('utf-8')
+    )
+
+requests = [battleStart, battleEnd, squad]
 responses = []

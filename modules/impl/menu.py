@@ -18,7 +18,7 @@ def response(flow: mitmproxy.http.HTTPFlow):
     status["freeDiamond"] = config.primes
     status["diamondShard"] = config.orundums
     status["gold"] = config.lmd
-    status["uid"] = config.uid
+    # status["uid"] = config.uid # lost code due to pc reset, will implement later (lazy + cc8)
     status["secretary"] = config.assistant
     status["secretarySkinId"] = config.assistant + "#" + str(config.skin)
 

@@ -12,10 +12,10 @@ def cfd(name: str) -> bool:
     return returnval
 
 def cf(name: str, content = "") -> bool:
-    with open(name, "wb") as file:
+    with open(name, "wb+") as file:
         if(content is bytes):
             file.write(content)
-        else:
+        elif content:
             file.write(content.encode("utf-8"))
 
 def rf(name: str) -> str:
